@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    redis (4.6.0)
+
+PLATFORMS
+  arm64-darwin-20
+
+DEPENDENCIES
+  redis
+
+BUNDLED WITH
+   2.3.6
